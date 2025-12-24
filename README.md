@@ -44,7 +44,7 @@
 ### One-Command Setup
 ```bash
 # Clone and setup everything
-git clone https://github.com/khaoss85/multi-agents.git
+git clone https://github.com/pontentialgenie/multi-agents.git
 cd ai-team-orchestrator
 ./scripts/quick-setup.sh
 ```
@@ -885,8 +885,8 @@ The RAG system transforms agents from generic AI assistants into domain experts 
 
 ### 🌐 **Community & Learning**
 
-- **💬 [GitHub Discussions](https://github.com/khaoss85/multi-agents/discussions)** - Community Q&A
-- **📋 [Issue Tracker](https://github.com/khaoss85/multi-agents/issues)** - Bug reports and features
+- **💬 [GitHub Discussions](https://github.com/pontentialgenie/multi-agents/discussions)** - Community Q&A
+- **📋 [Issue Tracker](https://github.com/pontentialgenie/multi-agents/issues)** - Bug reports and features
 - **🎯 [Contributing Guide](CONTRIBUTING.md)** - Join the development community
 - **📚 [Complete Book Guide](https://books.danielepelleri.com)** - Deep learning resource
 
@@ -898,20 +898,20 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 If you find this project useful, please consider giving it a star! It helps others discover the project and motivates continued development.
 
-[![Star History Chart](https://api.star-history.com/svg?repos=khaoss85/multi-agents&type=Date)](https://star-history.com/#khaoss85/multi-agents&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=pontentialgenie/multi-agents&type=Date)](https://star-history.com/#pontentialgenie/multi-agents&Date)
 
 ## 📢 **Share the Project**
 
 Help spread the word about AI Team Orchestrator! 
 
 ### **🐦 Social Media**
-[![Share on Twitter](https://img.shields.io/badge/Share%20on-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/intent/tweet?text=🚀%20Check%20out%20AI%20Team%20Orchestrator%20-%20Next-generation%20multi-agent%20AI%20platform%20with%20autonomous%20quality%20gates%20and%20real-time%20thinking!%20&url=https://github.com/khaoss85/multi-agents&hashtags=AI,MultiAgent,OpenAI,Automation,ProductivityTools)
-[![Share on LinkedIn](https://img.shields.io/badge/Share%20on-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/sharing/share-offsite/?url=https://github.com/khaoss85/multi-agents)
-[![Share on Reddit](https://img.shields.io/badge/Share%20on-Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/submit?url=https://github.com/khaoss85/multi-agents&title=AI%20Team%20Orchestrator%20-%20Enterprise%20Multi-Agent%20AI%20Platform)
+[![Share on Twitter](https://img.shields.io/badge/Share%20on-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/intent/tweet?text=🚀%20Check%20out%20AI%20Team%20Orchestrator%20-%20Next-generation%20multi-agent%20AI%20platform%20with%20autonomous%20quality%20gates%20and%20real-time%20thinking!%20&url=https://github.com/pontentialgenie/multi-agents&hashtags=AI,MultiAgent,OpenAI,Automation,ProductivityTools)
+[![Share on LinkedIn](https://img.shields.io/badge/Share%20on-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/sharing/share-offsite/?url=https://github.com/pontentialgenie/multi-agents)
+[![Share on Reddit](https://img.shields.io/badge/Share%20on-Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/submit?url=https://github.com/pontentialgenie/multi-agents&title=AI%20Team%20Orchestrator%20-%20Enterprise%20Multi-Agent%20AI%20Platform)
 
 ### **💬 Join the Community**
-- **💬 [GitHub Discussions](https://github.com/khaoss85/multi-agents/discussions)** - Community Q&A and feature discussions
-- **📋 [Issues & Feedback](https://github.com/khaoss85/multi-agents/issues)** - Bug reports and feature requests
+- **💬 [GitHub Discussions](https://github.com/pontentialgenie/multi-agents/discussions)** - Community Q&A and feature discussions
+- **📋 [Issues & Feedback](https://github.com/pontentialgenie/multi-agents/issues)** - Bug reports and feature requests
 - **🎯 [Contributing Guide](CONTRIBUTING.md)** - Join the development community
 - **📚 [Complete Book Guide](https://books.danielepelleri.com)** - Deep learning resource
 
